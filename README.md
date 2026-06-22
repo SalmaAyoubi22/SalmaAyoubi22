@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi, I'm Salma Ayoubi
 
-<!--
-**SalmaAyoubi22/SalmaAyoubi22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Python](https://img.shields.io/badge/Python-1e3a5f?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003366?style=flat-square&logo=postgresql&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-11557c?style=flat-square&logo=pytorch&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-003366?style=flat-square&logo=tableau&logoColor=white)
+![PowerBI](https://img.shields.io/badge/Power%20BI-1e3a5f?style=flat-square&logo=powerbi&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-003366?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-11557c?style=flat-square&logo=git&logoColor=white)
+![ML](https://img.shields.io/badge/Machine%20Learning-0a3d62?style=flat-square&logoColor=white)
+![Open to Work](https://img.shields.io/badge/Open%20to%20Work-003366?style=flat-square)
 
-Here are some ideas to get you started:
+Data Analyst | Python · SQL · Tableau · Power BI · ML · AI | Based in Helsinki, Finland
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About Me
+
+I'm an IT graduate from Centria University of Applied Sciences specialising in data analytics and applied AI. I completed a data analyst apprenticeship at **Mayerfeld Consulting** working hands-on with real datasets — statistical testing, regression modelling, SQL, and Tableau dashboards.
+
+My thesis built a U-Net brain tumour segmentation model in PyTorch achieving a Dice score of 0.961, with full GDPR compliance and EU AI Act audit trails. I treat documentation and data integrity as part of the work, not an afterthought.
+
+I am looking for a data analyst role where I can contribute from day one.
+
+---
+
+## Skills
+
+- **Languages:** Python, SQL, R, C#
+- **Libraries:** pandas, numpy, matplotlib, seaborn, scipy, statsmodels, PyTorch
+- **ML & AI:** Deep Learning (CNNs, U-Net), Model Evaluation (Dice, IoU), Data Preprocessing, Medical Image Analysis
+- **BI & Visualisation:** Tableau, Power BI, Microsoft Excel (pivot tables, advanced functions)
+- **Tools:** Jupyter Notebook, PostgreSQL, Git/GitHub, Microsoft 365, Google Workspace
+- **Methods:** Statistical testing, regression modelling, EDA, data cleaning & transformation
+- **Other:** GDPR compliance, EU AI Act frameworks, experiment logging & audit trails
+
+---
+
+## Featured Projects
+
+| Project | Description | Tools |
+|---------|-------------|-------|
+| [E-Commerce Customer Analysis](https://github.com/SalmaAyoubi22/ecommerce-customer-analysis) | EDA and statistical testing on customer behaviour and conversion | Python, pandas, scipy |
+| [SQL Data Analysis](https://github.com/SalmaAyoubi22/sql-data-analysis) | 10 business queries on movie, actor, and payment data | PostgreSQL |
+| [LCF Household Expenditure](https://github.com/SalmaAyoubi22/lcf-household-expenditure) | Regression analysis on UK household spending — R² = 0.486 across 5,144 households | Python, statsmodels
