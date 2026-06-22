@@ -16,9 +16,9 @@ Data Analyst | Python · SQL · Tableau · Power BI · ML · AI | Based in Helsi
 
 ## About Me
 
-I'm an IT graduate from Centria University of Applied Sciences specialising in data analytics and applied AI. I completed a data analyst apprenticeship at **Mayerfeld Consulting** working hands-on with real datasets — statistical testing, regression modelling, SQL, and Tableau dashboards.
+I'm an IT Engineering graduate from Centria University of Applied Sciences, specialising in data analytics and applied AI. I completed a data analyst apprenticeship at **Mayerfeld Consulting**, working hands-on with real datasets, statistical testing, regression modelling, SQL, and Tableau dashboards.
 
-My thesis built a U-Net brain tumour segmentation model in PyTorch achieving a Dice score of 0.961, with full GDPR compliance and EU AI Act audit trails. I treat documentation and data integrity as part of the work, not an afterthought.
+My thesis built a U-Net brain tumour segmentation model in PyTorch, achieving a Dice score of 0.961, with full GDPR compliance and EU AI Act audit trails. I treat documentation and data integrity as part of the work, not an afterthought.
 
 I am looking for a data analyst role where I can contribute from day one.
 
