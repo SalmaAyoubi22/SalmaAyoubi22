@@ -8,7 +8,7 @@
 ![Excel](https://img.shields.io/badge/Excel-003366?style=flat-square&logo=microsoftexcel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-11557c?style=flat-square&logo=git&logoColor=white)
 ![ML](https://img.shields.io/badge/Machine%20Learning-0a3d62?style=flat-square&logoColor=white)
-![Open to Work](https://img.shields.io/badge/Open%20to%20Work-003366?style=flat-square)
+
 
 Data Analyst | Python · SQL · Tableau · Power BI · ML · AI | Based in Helsinki, Finland
 
