@@ -40,6 +40,7 @@ I am looking for a data analyst role where I can contribute from day one.
 
 | Project | Description | Tools |
 |---------|-------------|-------|
-| [E-Commerce Customer Analysis](https://github.com/SalmaAyoubi22/ecommerce-customer-analysis) | EDA and statistical testing on customer behaviour and conversion | Python, pandas, scipy |
+| [E-Commerce Customer Analysis](https://github.com/SalmaAyoubi22/ecommerce-customer-analysis) | EDA, statistical testing + [live Tableau dashboard](https://public.tableau.com/app/profile/salma.ayoubi/viz/CustomerMarketingInsightsDashboard/CustomerMarketingInsightsDashboard?publish=yes) | Python, Tableau |
 | [SQL Data Analysis](https://github.com/SalmaAyoubi22/sql-data-analysis) | 10 business queries on movie, actor, and payment data | PostgreSQL |
-| [LCF Household Expenditure](https://github.com/SalmaAyoubi22/lcf-household-expenditure) | Regression analysis on UK household spending — R² = 0.486 across 5,144 households | Python, statsmodels
+| [LCF Household Expenditure](https://github.com/SalmaAyoubi22/lcf-household-expenditure) | Regression analysis on UK household spending — R² = 0.486 across 5,144 households | Python, statsmodels |
+| Bachelor's Thesis | AI-driven brain tumour segmentation using U-Net — Dice score 0.961, GDPR compliant | PyTorch, Python |
